@@ -21,6 +21,9 @@ public class Navigate {
 		driver.navigate().refresh();
 		
 		
+		System.out.println("new line")
+		
+		
 
 	}
 
